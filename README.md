@@ -5,8 +5,8 @@
 ---
 
 > I build robot simulation pipelines and intelligent manipulation systems at the intersection of
-> ROS2, deep learning, and real-time control. Currently seeking Summer 2026 internships in
-> Robot Simulation, Digital Twins, and Autonomous Systems.
+> ROS2, deep learning, and real-time control. Currently seeking Spring 2027 & Summer 2027
+> internships in Robot Simulation, Digital Twins, and Autonomous Systems.
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Domain | Tools |
 |---|---|
-| Robot Simulation | ROS2 · Gazebo · DQ Robotics · MATLAB/Simulink · URDF |
+| Robot Simulation | ROS2 · Gazebo · DQ Robotics · MATLAB · URDF · NVIDIA Isaac Sim · MuJoCo |
 | Manipulation & Control | Dobot Magician Lite · Denso VS050 · Pick & Place · QP Control |
 | AI & Perception | YOLOv8 · OpenCV · PyTorch · TensorFlow · CNNs · GANs |
 | LLM & Agents | Gemini 2.5 Flash · Tool-augmented LLM · Agentic AI |
@@ -24,6 +24,10 @@
 ---
 
 ## Featured Projects
+
+### 🏭 [Warehouse Digital Twin](https://github.com/Vishalsasikumar3/RAS_FINAL-)
+Autonomous warehouse simulation with multi-robot coordination, real-time path planning
+and fleet telemetry dashboards · `ROS2` `Gazebo` `Python` `Docker` `Digital-Twin`
 
 ### 🤖 [Denso VS050 — Dual Quaternion Kinematics](https://github.com/vishal-sasikumar/denso-vs050-digital-twin)
 6-DOF robot simulation using DQ Robotics: dual quaternion FK, constrained QP motion control
@@ -52,8 +56,22 @@ Suction cup + gripper pick-and-place with full forward/reverse pass · `Python` 
 
 ## Education
 
-**MS Robotics & Autonomous Systems** (AI Track) · Arizona State University · 2025–2027
+**MS Robotics & Autonomous Systems** (AI Track) · Arizona State University · 2025–2027  
 **BTech Computer Science** · SRM Institute of Science and Technology · 2021–2025 · CGPA 8.51
+
+---
+
+## Certifications
+
+🏆 Universal Robots Academy — e-Series Core, e-Series Application, CB3, Risk Assessment (Oct 2025)  
+🏆 MathWorks — Deep Learning in MATLAB, ML Techniques, Advanced MATLAB Programming (Sep 2025)  
+🏆 IBM Python for Data Science · Cisco Python Essentials 1 · Simplilearn Intro to AI  
+
+---
+
+## Publication
+
+📄 ICSEIT 2K25 International Conference — *"Innovative Campus Solutions: Building a Smart Education Application"* | Apr 2025 | ISBN: 978-93-342-0319-6
 
 ---
 
@@ -63,4 +81,4 @@ Suction cup + gripper pick-and-place with full forward/reverse pass · `Python` 
 [![Email](https://img.shields.io/badge/Email-vsasiku1@asu.edu-red?style=flat&logo=gmail)](mailto:vsasiku1@asu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-vishal--sasikumar-black?style=flat&logo=github)](https://github.com/vishal-sasikumar)
 
-📍 Phoenix, AZ · Open to Summer 2026 internships · F-1 visa · CPT eligible
+📍 Tempe, AZ · Open to Spring/Summer 2027 internships · F-1 visa · CPT eligible
