@@ -84,5 +84,3 @@ Minimax AI computes optimal moves, Dobot physically draws symbols on paper
 [![GitHub](https://img.shields.io/badge/GitHub-vishal--sasikumar-black?style=flat&logo=github)](https://github.com/vishal-sasikumar)
 
 📍 Tempe, AZ · Open to 2027 internships & New Grad roles · F-1 visa · CPT eligible
-
-📍 Tempe, AZ · Open to Spring/Summer 2027 internships · F-1 visa · CPT eligible
