@@ -1,10 +1,12 @@
-# VISHAL SASIKUMAR
+## VISHAL SASIKUMAR
 
 ### MS Robotics & Autonomous Systems (AI Track) · Arizona State University · May 2027
 
 ---
 
-MS Robotics @ ASU · Robot Simulation · Digital Twins · SLAM · ROS2 · LLM-Robot Integration · Seeking 2027 Internships & New Grad Roles
+> I build robot simulation pipelines and intelligent manipulation systems at the intersection of
+> ROS2, deep learning, and real-time control. Currently seeking Spring 2027 & Summer 2027
+> internships and New Grad roles in Robot Simulation, Digital Twins, and Autonomous Systems.
 
 ---
 
@@ -72,6 +74,7 @@ Minimax AI computes optimal moves, Dobot physically draws symbols on paper
 ## Publication
 
 📄 ICSEIT 2K25 International Conference — *"Innovative Campus Solutions: Building a Smart Education Application"* | Apr 2025 | ISBN: 978-93-342-0319-6
+
 ---
 
 ## Connect
@@ -79,5 +82,7 @@ Minimax AI computes optimal moves, Dobot physically draws symbols on paper
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalsasikumar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishalsasikumar)
 [![Email](https://img.shields.io/badge/Email-vsasiku1@asu.edu-red?style=flat&logo=gmail)](mailto:vsasiku1@asu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-vishal--sasikumar-black?style=flat&logo=github)](https://github.com/vishal-sasikumar)
+
+📍 Tempe, AZ · Open to 2027 internships & New Grad roles · F-1 visa · CPT eligible
 
 📍 Tempe, AZ · Open to Spring/Summer 2027 internships · F-1 visa · CPT eligible
