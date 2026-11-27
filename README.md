@@ -4,9 +4,7 @@
 
 ---
 
-> I build robot simulation pipelines and intelligent manipulation systems at the intersection of
-> ROS2, deep learning, and real-time control. Currently seeking Spring 2027 & Summer 2027
-> internships in Robot Simulation, Digital Twins, and Autonomous Systems.
+MS Robotics @ ASU · Robot Simulation · Digital Twins · SLAM · ROS2 · LLM-Robot Integration · Seeking 2027 Internships & New Grad Roles
 
 ---
 
